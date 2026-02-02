@@ -89,7 +89,7 @@ docker version
 terraform version
 ```
 
-> Observação (Windows): o mais simples é usar **Docker Desktop + WSL2** e executar o Terraform dentro do WSL. Também funciona no PowerShell, desde que o Terraform consiga acessar o mesmo filesystem que o Docker está usando.
+> Observação (Windows): o mais simples é usar **Docker Desktop + WSL2** e executar o Terraform dentro do WSL ou usar somente o WSL2 e fazer tudo nele. Também funciona no PowerShell, desde que o Terraform consiga acessar o mesmo filesystem que o Docker está usando.
 
 ---
 
